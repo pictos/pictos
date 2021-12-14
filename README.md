@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Pedro, mas geral me chama de Jesus (por conta do sobrenome)... Sou desenvolvedor C#, focado em fazer aplicativos móveis usando Xamarin, na [ArcTouch](https://arctouch.com/)❣ No tempo livre gosto de contribuir com projetos Open Source, atualmente meus maiores esforços são direcionados aos projetos: 
+Meu nome é Pedro, mas geral me chama de Jesus (por conta do sobrenome)... Sou desenvolvedor C#, focado em fazer aplicativos móveis usando Xamarin, na [Nareia](https://www.nareia.com.uy/)❣ No tempo livre gosto de contribuir com projetos Open Source, atualmente meus maiores esforços são direcionados aos projetos: 
 
 - [Xamarin.CommunityToolkit](https://github.com/xamarin/xamarincommunityToolkit/)
 - [Xamarin.Forms](https://github.com/xamarin/xamarin.forms)
@@ -16,7 +16,7 @@ Sinta-se livre para entrar em contato.
 
 ### Hi there 👋
 
-My name is Pedro but everyone call me as Jesus (because of my second name)... I'm a C# developer, crafting mobile applications in [ArcTouch](https://arctouch.com/)❣ On my free time I like to contribue with OSS projects, actually most of my efforts are on those projects:
+My name is Pedro but everyone call me as Jesus (because of my second name)... I'm a C# developer, crafting mobile applications in [Nareia](https://www.nareia.com.uy/)❣ On my free time I like to contribue with OSS projects, actually most of my efforts are on those projects:
 
 - [Xamarin.CommunityToolkit](https://github.com/xamarin/xamarincommunityToolkit/)
 - [Xamarin.Forms](https://github.com/xamarin/xamarin.forms)
