@@ -26,7 +26,7 @@ My name is Pedro but everyone call me as Jesus (because of my second name)... I'
 - [.NET MAUI](https://github.com/dotnet/maui/)
 - [CommunityToolkit.MAUI](https://github.com/CommunityToolkit/Maui)
 
-Also, I generate tec content in [streaming](https://www.twitch.tv/jesopas), [articles](https://medium.com/@pedro_jesus), [videos](https://www.youtube.com/pedrojesus).
+Also, I generate tech content in [streaming](https://www.twitch.tv/jesopas), [articles](https://medium.com/@pedro_jesus), [videos](https://www.youtube.com/pedrojesus).
 
 You can find me on [twitter](https://twitter.com/pj_souz) and [linkedin](https://www.linkedin.com/in/pedro-jesus-61464291/).
 
