@@ -18,7 +18,7 @@ Sinta-se livre para entrar em contato.
 
 ### Hi there 👋
 
-My name is Pedro but everyone call me as Jesus (because of my second name)... I'm a C# developer, crafting mobile applications woth Xamarin and [UNO](https://github.com/unoplatform/uno). At the moment in [UNO Platform](https://platform.uno/)❣ Doing Open Source❣ On my free time I like to contribue with OSS projects, actually most of my efforts are on those projects:
+My name is Pedro but everyone call me as Jesus (because of my second name)... I'm a C# developer, crafting mobile applications woth Xamarin and [UNO](https://github.com/unoplatform/uno). At the moment I work at [UNO Platform](https://platform.uno/)❣ Doing Open Source❣ On my free time I like to contribue with OSS projects, actually most of my efforts are on those projects:
 
 - [Xamarin.CommunityToolkit](https://github.com/xamarin/xamarincommunityToolkit/)
 - [Xamarin.Forms](https://github.com/xamarin/xamarin.forms)
