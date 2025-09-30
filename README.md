@@ -9,7 +9,7 @@ Meu nome é Pedro, mas geral me chama de Jesus (por conta do sobrenome)... Sou d
 - [CommunityToolkit.MAUI](https://github.com/CommunityToolkit/Maui)
 
 
-Também, gero conteúdo em [streaming](https://www.twitch.tv/jesopas), [artigos](https://medium.com/@pedro_jesus) e em [vídeos](https://www.youtube.com/pedrojesus).
+Também, gero conteúdo em [streaming](https://www.twitch.tv/jesopas), [artigos](https://dev.to/jesus) e em [vídeos](https://www.youtube.com/pedrojesus).
 
 Você também consegue me achar no [twitter](https://twitter.com/pj_souz) e [linkedin](https://www.linkedin.com/in/pedro-jesus-61464291/). 
 
@@ -26,7 +26,7 @@ My name is Pedro but everyone call me as Jesus (because of my second name)... I'
 - [.NET MAUI](https://github.com/dotnet/maui/)
 - [CommunityToolkit.MAUI](https://github.com/CommunityToolkit/Maui)
 
-Also, I generate tech content in [streaming](https://www.twitch.tv/jesopas), [articles](https://medium.com/@pedro_jesus), [videos](https://www.youtube.com/pedrojesus).
+Also, I generate tech content in [streaming](https://www.twitch.tv/jesopas), [articles](https://dev.to/jesus), [videos](https://www.youtube.com/pedrojesus).
 
 You can find me on [twitter](https://twitter.com/pj_souz) and [linkedin](https://www.linkedin.com/in/pedro-jesus-61464291/).
 
